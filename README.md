@@ -5,7 +5,7 @@ This repository contains Python code for visualizing weather data, including tem
 
 ## Contents
 - `Daily Weather.csv`: Sample weather dataset in CSV format.
-- `visualizations.ipynb`: Jupyter Notebook with Python code for creating visualizations.
+- `Python Visualizations.ipynb`: Jupyter Notebook with Python code for creating visualizations.
 
 ## Dependencies
 - Python
