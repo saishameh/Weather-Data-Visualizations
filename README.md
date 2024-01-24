@@ -4,7 +4,7 @@
 This repository contains Python code for visualizing weather data, including temperature, humidity, wind speed, and precipitation.
 
 ## Contents
-- `weather_data.csv`: Sample weather dataset in CSV format.
+- `Daily Weather.csv`: Sample weather dataset in CSV format.
 - `visualizations.ipynb`: Jupyter Notebook with Python code for creating visualizations.
 
 ## Dependencies
